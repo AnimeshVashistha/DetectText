@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245271388625",
+    "project_id": "detecttext-54eea",
+    "storage_bucket": "detecttext-54eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245271388625:android:4fdbc102f623d7820900f0",
+        "android_client_info": {
+          "package_name": "com.example.detecttext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245271388625-l8np39k42391csralb38m54bjidsko3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnpikGuhHtMltclWYu50P_c3fNrtaQ4Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245271388625-l8np39k42391csralb38m54bjidsko3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
